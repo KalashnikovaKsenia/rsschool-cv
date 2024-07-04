@@ -13,6 +13,7 @@ I'm a business systems analyst with 4+ years of experience. I'm passionate about
 + JavaScript Basics
 + GIT 
 + MS SQL
++ Postman
 
 ## Code exemple
 ```
