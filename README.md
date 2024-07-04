@@ -1,1 +1,1 @@
-# rsschool-cv
+https://KalashnikovaKsenia.github.io/rsschool-cv/cv
